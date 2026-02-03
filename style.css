@@ -1,0 +1,57 @@
+h1{
+ text-align:right;
+}
+.start-btn {
+    padding: 15px 40px;      /* حجم الزر */
+    font-size: 20px;         /* حجم الكلام */
+    background-color: #2196f3; /* لون الزر */
+    color: white;            /* لون النص */
+    border: none;            /* إزالة الإطار */
+    border-radius: 12px;     /* تدوير الحواف */
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* تأثير عند المرور */
+.start-btn:hover {
+    background-color: #0b7dda;
+    transform: scale(1.1);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+h1{
+ text-align:left;
+}
+.start-btn {
+    padding: 15px 40px;      /* حجم الزر */
+    font-size: 20px;         /* حجم الكلام */
+    background-color: #2196f3; /* لون الزر */
+    color: white;            /* لون النص */
+    border: none;            /* إزالة الإطار */
+    border-radius: 12px;     /* تدوير الحواف */
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* تأثير عند المرور */
+.start-btn:hover {
+    background-color: #0b7dda;
+    transform: scale(1.1);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+	
