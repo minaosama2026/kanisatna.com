@@ -1,0 +1,32 @@
+h1{
+    text-align: right;
+}
+h1{
+    font-size: 32px;
+}
+h2{
+    text-align: right;
+}
+h2{
+    font-size: 28px;
+}
+p{
+    text-align: right;
+}
+p{
+    font-size: 24px;
+}
+
+
+.start-btn{
+padding: 32px;
+font-size: 20px;
+background-color: #2196f3;
+color: white;
+cursor: pointer;
+transition: 0.3s;
+}
+.start-btn:hover{
+    background-color: #0b7dda;
+    transform: scale(1.1);
+}

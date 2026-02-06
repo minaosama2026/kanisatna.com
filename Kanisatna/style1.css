@@ -1,0 +1,25 @@
+.start-btn {
+    padding: 15px 40px;      /* حجم الزر */
+    font-size: 20px;         /* حجم الكلام */
+    background-color: #2196f3; /* لون الزر */
+    color: white;            /* لون النص */
+    border: none;            /* إزالة الإطار */
+    border-radius: 12px;     /* تدوير الحواف */
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* تأثير عند المرور */
+.start-btn:hover {
+    background-color: #0b7dda;
+    transform: scale(1.1);
+}
+.start-btn1{
+    padding: 15px 40px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    cursor: help;
+    }
